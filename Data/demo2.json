@@ -1,0 +1,89 @@
+{
+ "catalog": {
+   "product": {
+     "catalog_item": [{
+       "item_number": {
+         "keyValue": "QWZ5671"
+       },
+       "price": {
+         "keyValue": 39.95
+       },
+       "size": [{
+         "color_swatch": [{
+           "keyValue": "Red",
+           "keyAttributes": {
+             "image": "red_cardigan.jpg"
+           }
+         }, {
+           "keyValue": "Burgundy",
+           "keyAttributes": {
+             "image": "burgundy_cardigan.jpg"
+           }
+         }],
+         "keyValue": null,
+         "keyAttributes": {
+           "description": "Medium"
+         }
+       }, {
+         "color_swatch": [{
+           "keyValue": "Red",
+           "keyAttributes": {
+             "image": "red_cardigan.jpg"
+           }
+         }, {
+           "keyValue": "Burgundy",
+           "keyAttributes": {
+             "image": "burgundy_cardigan.jpg"
+           }
+         }],
+         "purchased": {
+           "keyValue": null
+         },
+         "keyValue": null,
+         "keyAttributes": {
+           "description": "Large"
+         }
+       }],
+       "keyValue": null,
+       "keyAttributes": {
+         "gender": "Men's"
+       }
+     }, {
+       "item_number": {
+         "keyValue": "RRX9856"
+       },
+       "price": {
+         "keyValue": 42.5
+       },
+       "size": {
+         "color_swatch": {
+           "keyValue": "Black",
+           "keyAttributes": {
+             "image": "black_cardigan.jpg"
+           }
+         },
+         "keyValue": null,
+         "keyAttributes": {
+           "description": "Medium"
+         }
+       },
+       "keyValue": null,
+       "keyAttributes": {
+         "gender": "Women's"
+       }
+     }],
+     "keyValue": null,
+     "keyAttributes": {
+       "description": "Cardigan Sweater"
+     }
+   },
+   "script": {
+     "keyValue": "function matchwo(a,b) {\n if (a < b && a < 0) { return 1; }\n else { return 0; }\n}",
+     "keyAttributes": {
+       "type": "text/javascript"
+     }
+   },
+   "keyValue": null
+ },
+ "keyValue": null
+}
